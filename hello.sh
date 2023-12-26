@@ -1,1 +1,7 @@
 echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
+echo "hello and ewlcome to the session be regulaer"
